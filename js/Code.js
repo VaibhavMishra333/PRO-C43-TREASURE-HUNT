@@ -3,7 +3,7 @@ const accessCode2 = "FUNCTION";
 const accessCode3 = "DATABASE";
 
 function clues() {
-   
+    
     fill("white")
     textSize(15)
     text("R E V B A I L A", 100,50)
